@@ -1,5 +1,5 @@
 # Fantasy Character Select Menu
-Application for selecting fantasy characters
+Application for selecting fantasy characters.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
